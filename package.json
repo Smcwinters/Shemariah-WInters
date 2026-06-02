@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "MCP server for Cvent campaign management",
   "main": "cvent-mcp-server.js",
-  "type": "module",
   "scripts": {
     "start": "node cvent-mcp-server.js",
     "dev": "CVENT_CLIENT_ID=your_id CVENT_CLIENT_SECRET=your_secret node cvent-mcp-server.js"
